@@ -8,6 +8,7 @@ import loginComponent from './resources/login/loginComponent'
 import cadastroComponent from './resources/cadastro/cadastroComponent'
 
 Vue.config.productionTip = false
+
 Vue.use(
   VueRouter,
   BootstrapVue,
